@@ -1,7 +1,8 @@
 name: custom_cupertino_navigation
 description: This package is made for using cupertino sliver navbar with material theme like - Theme.of(context)
 version: 0.0.1
-author: Selman Poyraz<kspoyraz7@gmail.com>
+authors:
+  - Selman Poyraz<3223poyraz@gmail.com>
 homepage: https://github.com/kspo/custom_cupertino_navbar.git
 
 environment:
